@@ -1,4 +1,4 @@
-# Welcome to your CDK TypeScript project
+# Sample AWS IaC template
 
 This is a blank project for CDK development with TypeScript.
 
